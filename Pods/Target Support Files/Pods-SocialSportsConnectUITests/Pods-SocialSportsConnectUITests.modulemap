@@ -1,0 +1,6 @@
+framework module Pods_SocialSportsConnectUITests {
+  umbrella header "Pods-SocialSportsConnectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
